@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+어쩌구 저쩌구....
 
 <!--
 **Limhyeonsu/Limhyeonsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skill
+### Backend
+<p>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-007396?&logo=Java&logoColor=white"/>
+  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white"/>
+  <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white"/>
+  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
+  <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?&logo=MariaDB&logoColor=white"/>
+</p>
+
+### Frontend
+<p>
+  <img alt="HTML5" src ="https://img.shields.io/badge/-JavaScript-FDDC00?&logo=JavaScript&logoColor=white"/>
+  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&logo=HTML5&logoColor=white"/>
+  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&logo=CSS3&logoColor=white"/>
+</p>
+
+## Toy Project
+* 업무 일정 관리 및 정보 공유 'Troller'
+  * Github :
+  * Url :
+* 주류 쇼핑 커뮤니티 '술토리텔러'
+  * Github :
