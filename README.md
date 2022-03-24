@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&logo=CSS3&logoColor=white"/>
 </p>
 
+<br />
+
 ## 🎮Toy Project
 * 업무 일정 관리 및 정보 공유 'Troller'
   * Github : https://github.com/Limhyeonsu/gitlab_troller
