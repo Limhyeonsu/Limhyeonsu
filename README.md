@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **Limhyeonsu/Limhyeonsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
 
 ## 🛠 Skills
 ### ● Backend
@@ -34,9 +36,15 @@ Here are some ideas to get you started:
 
 <br />
 
-## 🎮Toy Project
+## 🎮 Toy Project
 * 업무 일정 관리 및 정보 공유 'Troller'
   * Github : https://github.com/Limhyeonsu/gitlab_troller
   * Url : http://troller.shop/
 * 주류 쇼핑 커뮤니티 '술토리텔러'
   * Github : https://github.com/Limhyeonsu/sooltoryteller
+
+<br />
+
+## 🏆
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limhyeonsu&layout=compact)](https://github.com/Limhyeonsu/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlagustn720)](https://solved.ac/dlagustn720)
