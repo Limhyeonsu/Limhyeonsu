@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 ## 🏆
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limhyeonsu&layout=compact)](https://github.com/Limhyeonsu/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlagustn720)](https://solved.ac/dlagustn720)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlagustn720)](https://solved.ac/dlagustn720)
