@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 🎮 Toy Project
 * 업무 일정 관리 및 정보 공유 'Troller'
-  * Github : https://github.com/Limhyeonsu/gitlab_troller
+  * Github : https://github.com/Limhyeonsu/troller
   * Url : http://troller.shop/
 * 주류 쇼핑 커뮤니티 '술토리텔러'
   * Github : https://github.com/Limhyeonsu/sooltoryteller
