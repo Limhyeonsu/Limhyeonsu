@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 <br />
 
 ## 🎮 Toy Project
-* 업무 일정 관리 및 정보 공유 'Troller'
+* 업무 일정 관리 및 정보 공유 'Troller'  (2021.08~2021.11)
   * Github : https://github.com/Limhyeonsu/troller
   * Url : http://troller.shop/
-* 주류 쇼핑 커뮤니티 '술토리텔러'
+* 주류 쇼핑 커뮤니티 '술토리텔러' (2020.11~2021.01)
   * Github : https://github.com/Limhyeonsu/sooltoryteller
 
 <br />
